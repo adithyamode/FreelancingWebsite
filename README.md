@@ -140,12 +140,43 @@ The backend of freelancing website provides a range of features and functionalit
 
 ## Demo
 
-Insert gif or link to demo
-
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- Login and Signup functionality
+  
+![Screenshot (12)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/78fd3429-6af9-449d-92af-25a27eca036e)
+
+- Set User Profile
+  
+![Screenshot (13)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/50ce13a1-46a4-4c2e-9579-7efbaad5ba28)
+
+- Create Gigs
+  
+![Screenshot (11)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/7bc63eb9-4906-462e-a02f-797b90fb3f97)
+
+- Edit Gigs
+  
+![Screenshot (10)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/416c3bc6-932e-4624-95bd-ff9dcfb3a7e1)
+
+- Secured Payment integration
+  
+![Screenshot (14)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/feb14394-4544-4c12-8ea9-49b77f1ff12f)
+
+- User Purchase page
+  
+![Screenshot (16)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/5e5ac15a-0092-489e-9d2f-778dec05b980)
+
+- Client and freelancer Private Conversation with read and unread features
+  
+![Screenshot (17)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/4e6f032a-d165-4565-bc7a-5898a2992c86)
+
+- Reviews and Rating to Seller
+  
+![Screenshot (18)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/c686f17b-68c2-440f-b6b6-527cddb56e17)
+
+- Dashboard
+  
+![Screenshot (15)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/9ad90814-6ef9-4d6b-a67e-3335023c81de)
 
 
 ## Environment Variables
@@ -170,7 +201,8 @@ To run this project, you will need to add the following environment variables to
 **Payment :** Stripe
 
 
-## Lessons Learned
+## Lessons Learned!
+
 
 - Desgin of Schemas / Models.
 - PostgreSQL connection with backend Using Prisma.
